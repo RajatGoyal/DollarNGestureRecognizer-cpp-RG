@@ -1,4 +1,4 @@
-$NGestureRecognizer-cpp-RajatGoyal
+$NGestureRecognizer-cpp
 ==================================
 C++ impelementation of $N gesture Recognizer(http://depts.washington.edu/aimgroup/proj/dollar/ndollar.html)
 
