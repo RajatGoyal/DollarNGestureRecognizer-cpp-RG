@@ -6,7 +6,7 @@ C++ impelementation of $N gesture Recognizer(http://depts.washington.edu/aimgrou
 
 >gyl.rajat@gmail.com
 
->http:\\goyalrajat.in
+>http:\\\goyalrajat.in
 
 This code extends unistroke $1 gesture recognition created by Baylor Wetzeli,( wetzel(at)cs.umn.edu) library to include multisroke $N gesture recognition.It can be use for both , $1 and $1 Gesture Recognition . 
 
