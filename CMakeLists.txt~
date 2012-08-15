@@ -1,0 +1,8 @@
+cmake_minimum_required (VERSION 2.6)
+Project(dollar)
+INCLUDE_DIRECTORIES("lib")
+# Make Executable
+ADD_EXECUTABLE(main main.cpp GeometricRecognizer.cpp)
+# Link the executable to the Hello library.
+TARGET_LINK_LIBRARIES(main -lml -L/usr/lib)
+
