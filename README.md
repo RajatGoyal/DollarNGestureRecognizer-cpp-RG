@@ -8,7 +8,7 @@ C++ impelementation of $N gesture Recognizer(http://depts.washington.edu/aimgrou
 
 >[http://goyalrajat.in](http://goyalrajat.in)
 
-This code extends unistroke $1 gesture recognition created by Baylor Wetzeli,( wetzel(at)cs.umn.edu) library to include multisroke $N gesture recognition.It can be use for both $1 and $N Gesture Recognition . 
+This code extends unistroke $1 gesture recognition library created by Baylor Wetzeli,( wetzel(at)cs.umn.edu)  to include multisroke $N gesture recognition.It can be used for both $1 and $N Gesture Recognition . 
 
 The code is based on , javascript implmentation found on the page - http://depts.washington.edu/aimgroup/proj/dollar/ndollar.html
 
